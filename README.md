@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b2fedd1c-9c1c-466b-9f8e-9fbb7445aa48)![image](https://github.com/user-attachments/assets/eb734fc7-bf88-42eb-8ac6-26add64257cf)![image](https://github.com/user-attachments/assets/7082d74d-5bab-4a56-9446-02a6fa62abe5)# Windows-basic-commands-batchscript
+# Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
