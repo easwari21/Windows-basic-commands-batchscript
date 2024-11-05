@@ -79,14 +79,19 @@ move mylab Document
 ## Exercise 2: Advanced Batch Scripting
 Create a batch script named "BackupScript.bat" that creates a backup of files with the ".docx" extension from the "Documents" folder to a new folder named "DocBackup" on the desktop.
 
-
-
-
-
+```
+mkdir %userprofile%\Desktop\DocBackup
+copy %userprofile%\Documents\*.docx %userprofile%\Desktop\DocBackup
+del %userprofile%\Documents\DocBackup\*.docx
+```
+```
+BackupScript.bat
+```
 
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/25af0f2a-1726-4991-96b9-b2b5e58feebb)
 
 
 
